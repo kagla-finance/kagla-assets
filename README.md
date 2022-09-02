@@ -34,13 +34,9 @@ e.g.) `/kagla-asses/images/0x00d41391b0d455fdad49bc6fb8f590db844403b6.png`
    - square size bigger than 640 x 640px
 
 
-[example1](https://github.com/kagla-finance/kagla-assets/blob/5e5fb0ad5e23a1f776b5acf7c3f6baded1e53668/images/0xffffffff00000000000000010000000000000001.png) 
-
-[example2(the first image is an example of LP token image)](https://github.com/kagla-finance/kagla-assets/commit/1218d9ad683dd51c68aba5540536cf0f88ed96a9) 
-
-[example3](https://github.com/kagla-finance/kagla-assets/blob/1218d9ad683dd51c68aba5540536cf0f88ed96a9/images/0xe511ed88575c57767bafb72bfd10775413e3f2b0.png) 
-
-[example4](https://github.com/kagla-finance/kagla-assets/blob/a0dabab6fae12e6f4fb4537743120d50c36eb817/images/0x733ebcc6df85f8266349defd0980f8ced9b45f35.png) 
+[example1](https://github.com/kagla-finance/kagla-assets/blob/main/images/0xffffffff00000000000000010000000000000001.png) 
+, [example2](https://github.com/kagla-finance/kagla-assets/blob/main/images/0xe511ed88575c57767bafb72bfd10775413e3f2b0.png) 
+, [example3](https://github.com/kagla-finance/kagla-assets/blob/main/images/0x733ebcc6df85f8266349defd0980f8ced9b45f35.png) 
 
 #### for LP tokens
    - file name should be : `{token contract address}.png` (All lowercase)
@@ -56,9 +52,9 @@ e.g.) `/kagla-asses/images/0x00d41391b0d455fdad49bc6fb8f590db844403b6.png`
          - 64px for the image of 640px as a whole
      
 
-[example1(the first image is an example of LP token image)](https://github.com/kagla-finance/kagla-assets/commit/1218d9ad683dd51c68aba5540536cf0f88ed96a9) 
-
-[example2](https://github.com/kagla-finance/kagla-assets/blob/a0dabab6fae12e6f4fb4537743120d50c36eb817/images/0x18bdb86e835e9952cfaa844eb923e470e832ad58.png) 
+[example1](https://github.com/kagla-finance/kagla-assets/blob/main/images/0xe12332a6118832cbafc1913ec5d8c3a05e6fd880.png) 
+, [example2](https://github.com/kagla-finance/kagla-assets/blob/main/images/0x847f0fd7e3a234e7321d01ff2347e4501ea89cf1.png)
+, [expample3](https://github.com/kagla-finance/kagla-assets/blob/main/images/0x00d41391b0d455fdad49bc6fb8f590db844403b6.png)
 
 
 ## 3. Create a pull request
