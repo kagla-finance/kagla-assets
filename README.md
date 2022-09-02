@@ -65,9 +65,16 @@ e.g.) `/kagla-asses/images/0x00d41391b0d455fdad49bc6fb8f590db844403b6.png`
 
 Please follow the template below. (Template must be completed.)
 ```
+Did you follow [this guide](https://github.com/kagla-finance/kagla-assets)?: Yes/No
+
+Do the images you are uploading meet the requirements of the guide?: Yes/No
+
 Pool URL: 
+
 Token URL(Blockscout): 
+
 Contact
-Twitter:
-Discord:
+ - Twitter:
+ - Discord:
+ 
 ```
